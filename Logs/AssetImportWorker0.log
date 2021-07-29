@@ -1,0 +1,1080 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/irenecho/origami
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64839
+Successfully changed project path to: /Users/irenecho/origami
+/Users/irenecho/origami
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/irenecho/origami/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-29 13:35:28.098 Unity[22322:530773] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-07-29 13:35:28.098 Unity[22322:530773] Metal devices available: 1
+2021-07-29 13:35:28.098 Unity[22322:530773] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-07-29 13:35:28.099 Unity[22322:530773] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56322
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000768 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 83.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.939 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.366 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2871 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 222.0 MB.
+System memory in use after: 195.7 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 3183.
+Total: 7.621146 ms (FindLiveObjects: 0.275432 ms CreateObjectMapping: 0.102593 ms MarkObjects: 1.670035 ms  DeleteObjects: 5.571718 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/HolographicAcademy-Holograms-210-Gaze
+  artifactKey: Guid(be1c15ddcf7064b049f4d5f8121a3ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-210-Gaze using Guid(be1c15ddcf7064b049f4d5f8121a3ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28003bad10bb33c630193d230960925') in 0.004973 seconds 
+  Import took 0.010017 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 13.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 134 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.6 MB.
+System memory in use after: 136.4 MB.
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 3183.
+Total: 7.911132 ms (FindLiveObjects: 0.264193 ms CreateObjectMapping: 0.104332 ms MarkObjects: 1.606306 ms  DeleteObjects: 5.934960 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 51.009038 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami
+  artifactKey: Guid(9c09e9f9164904b7eb314fea378034c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami using Guid(9c09e9f9164904b7eb314fea378034c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9335125ebf46bc12fb8279764957df46') in 0.003240 seconds 
+  Import took 0.011291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.837533 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets
+  artifactKey: Guid(02819a310b6244ba2b211e2d2e7eb137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets using Guid(02819a310b6244ba2b211e2d2e7eb137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2ee20553f35c47ab193c4425003681') in 0.001843 seconds 
+  Import took 0.008892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.951042 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms
+  artifactKey: Guid(878781e6deb3445d09241d8111acdc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms using Guid(878781e6deb3445d09241d8111acdc94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6e2a3332125f5161d2352a474d2711') in 0.001790 seconds 
+  Import took 0.009577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045623 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Ambience.wav
+  artifactKey: Guid(dcbfec5b898fa4257988226f819d745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Ambience.wav using Guid(dcbfec5b898fa4257988226f819d745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027341df105cb8f5cddf0bcd1ab5bf4f') in 0.356453 seconds 
+  Import took 0.362064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Underworld.prefab
+  artifactKey: Guid(3b6472bafaa6c41afb87067d6d1a5412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Underworld.prefab using Guid(3b6472bafaa6c41afb87067d6d1a5412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426352435dbcbd66e1ff52c6467bc33c') in 0.262097 seconds 
+  Import took 0.267287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Lights.prefab
+  artifactKey: Guid(9f075964dc79945ae90fd5f6cb6b4ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Lights.prefab using Guid(9f075964dc79945ae90fd5f6cb6b4ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62e5151f51016a9ed55078a8cf4c251') in 0.002738 seconds 
+  Import took 0.007842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Fitbox.prefab
+  artifactKey: Guid(2668dc2e0b20f484684a228fa91f5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Fitbox.prefab using Guid(2668dc2e0b20f484684a228fa91f5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9faff1fd1c3178eacae502f0d5ce430') in 0.224925 seconds 
+  Import took 0.229924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Stage.prefab
+  artifactKey: Guid(5fd02eff8c7ea4465ac7ec0ae4e8a6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Stage.prefab using Guid(5fd02eff8c7ea4465ac7ec0ae4e8a6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acce87aae52bde065da0ec4a2903da81') in 0.003837 seconds 
+  Import took 0.009205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Spatial Mapping.prefab
+  artifactKey: Guid(3634bbccf4468446baed005dea669100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Spatial Mapping.prefab using Guid(3634bbccf4468446baed005dea669100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561016acf6287f393f26c7204c6b7699') in 0.005076 seconds 
+  Import took 0.014044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Sphere2.prefab
+  artifactKey: Guid(b8f3d78aaa83b45e0b5a4d84964820ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Sphere2.prefab using Guid(b8f3d78aaa83b45e0b5a4d84964820ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced9d39579fad4bf31373ca8e3bcaf89') in 0.004023 seconds 
+  Import took 0.012613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Cursor.prefab
+  artifactKey: Guid(9c69e4218ed3c41a1acb40a2523510fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Cursor.prefab using Guid(9c69e4218ed3c41a1acb40a2523510fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e347bcb72017befd8ece577c67770d9') in 0.003618 seconds 
+  Import took 0.012295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Sphere1.prefab
+  artifactKey: Guid(506d1dacd62044759be81aa90cf17bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Holograms/Sphere1.prefab using Guid(506d1dacd62044759be81aa90cf17bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd21c8ccc6b32ec2e09da81502d29abf') in 0.004093 seconds 
+  Import took 0.009998 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016653 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.2 MB.
+System memory in use after: 202.0 MB.
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 3197.
+Total: 8.535341 ms (FindLiveObjects: 0.253126 ms CreateObjectMapping: 0.125847 ms MarkObjects: 1.514467 ms  DeleteObjects: 6.638177 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.4 MB.
+System memory in use after: 202.2 MB.
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 3200.
+Total: 7.911675 ms (FindLiveObjects: 0.268307 ms CreateObjectMapping: 0.111364 ms MarkObjects: 1.551011 ms  DeleteObjects: 5.980007 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 307.847829 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Starting/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx
+  artifactKey: Guid(ee9a3bd28b6c340779661ce211b87d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Starting/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx using Guid(ee9a3bd28b6c340779661ce211b87d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82606733f6f284eae411f411b3ccf96') in 0.933707 seconds 
+  Import took 0.943098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005048 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Starting/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx
+  artifactKey: Guid(ee9a3bd28b6c340779661ce211b87d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Starting/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx using Guid(ee9a3bd28b6c340779661ce211b87d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82606733f6f284eae411f411b3ccf96') in 0.514698 seconds 
+  Import took 0.524401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.780274 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx
+  artifactKey: Guid(fd49b9a15c2f243f395a6334139a0612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Resources/Models/AstroMan/AN_RIG_ExplodeX.fbx using Guid(fd49b9a15c2f243f395a6334139a0612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d63510029bf4f59c6fb60509e01127') in 0.544230 seconds 
+  Import took 0.553644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.217565 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.fbx
+  artifactKey: Guid(380bc853607b04684b54b4ec2e484542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.fbx using Guid(380bc853607b04684b54b4ec2e484542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccb8ec66541b15a81642226c28bcf4b') in 0.129190 seconds 
+  Import took 0.135286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthwestSoutheast.prefab
+  artifactKey: Guid(1e2bbf7d8a95c4b9899ac5ccfcef7cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthwestSoutheast.prefab using Guid(1e2bbf7d8a95c4b9899ac5ccfcef7cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Observation_In_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Hold' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Hold_In_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Hold_Out_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Interaction_From_Hold_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Interaction_From_Observation_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Interaction_In_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Interaction_Out_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Observation_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthwestSoutheast': Transition 'AnyState -> Cursor_Cross_Observation_Out_NorthwestSoutheast' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'ac1e5e09fadb48c49f8fac4eeaae9e06') in 0.295047 seconds 
+  Import took 0.301200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthwestSoutheast.fbx
+  artifactKey: Guid(ccb2321ab72c14cb8a18081c6a1d22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthwestSoutheast.fbx using Guid(ccb2321ab72c14cb8a18081c6a1d22b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f68025c7bc50575953a06b0bdfb9c8') in 0.087977 seconds 
+  Import took 0.116139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.fbx
+  artifactKey: Guid(380bc853607b04684b54b4ec2e484542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.fbx using Guid(380bc853607b04684b54b4ec2e484542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccb8ec66541b15a81642226c28bcf4b') in 0.123957 seconds 
+  Import took 0.130816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthSouth.fbx
+  artifactKey: Guid(640c62273b97b46ac8fc205dcf6fe06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthSouth.fbx using Guid(640c62273b97b46ac8fc205dcf6fe06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58b81cf82c5ed7da00fdd236458205e') in 0.095410 seconds 
+  Import took 0.103764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.prefab
+  artifactKey: Guid(59863a7788eb64937b69127dd129e97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_cross_root.prefab using Guid(59863a7788eb64937b69127dd129e97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aab4b08cbd14da43a05ba49d99b7d8') in 0.015715 seconds 
+  Import took 0.024308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthSouth.prefab
+  artifactKey: Guid(3ec3532c5d7bd43a68803609059b05eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NorthSouth.prefab using Guid(3ec3532c5d7bd43a68803609059b05eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Observation_In_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Hold_In_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Hold_Out_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Interaction_From_Observation_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Interaction_In_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Interaction_Out_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Observation_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Observation_Out_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Hold_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NorthSouth': Transition 'AnyState -> Cursor_Cross_Interaction_From_Hold_NorthSouth' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '71795731794d31df0139558cb9828ed0') in 0.022268 seconds 
+  Import took 0.029915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.fbx
+  artifactKey: Guid(f9ddf6c33048045a6af360c08b139238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.fbx using Guid(f9ddf6c33048045a6af360c08b139238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dcc29a53fcbdda3ff60b2132cd0beb') in 0.097573 seconds 
+  Import took 0.107496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.prefab
+  artifactKey: Guid(a3b2ed55b96a347ed977efaf2c864568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.prefab using Guid(a3b2ed55b96a347ed977efaf2c864568) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Observation_In_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Observation_Out_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Interaction_In_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Interaction_Out_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Hold_In_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Hold_Out_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Observation_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Hold_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Interaction_From_Hold_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+Asset 'Cursor_Size_NortheastSouthwest': Transition 'AnyState -> Cursor_Cross_Interaction_From_Observation_NortheastSouthwest' in state 'AnyState' doesn't have an Exit Time or any condition, transition will be ignored
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:636)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:615)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:860)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'fc56de0df7543e3397a184da9ada1f73') in 0.018567 seconds 
+  Import took 0.028806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.fbx
+  artifactKey: Guid(f9ddf6c33048045a6af360c08b139238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/HoloToolkit/UX/Models/Cursor/Cursor_scale/Cursor_Size_NortheastSouthwest.fbx using Guid(f9ddf6c33048045a6af360c08b139238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dcc29a53fcbdda3ff60b2132cd0beb') in 0.093477 seconds 
+  Import took 0.100840 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.055899 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 239.7 MB.
+System memory in use after: 213.4 MB.
+
+Unloading 137 unused Assets to reduce memory usage. Loaded Objects now: 3208.
+Total: 8.358373 ms (FindLiveObjects: 0.282333 ms CreateObjectMapping: 0.114735 ms MarkObjects: 1.596941 ms  DeleteObjects: 6.363532 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 19.952758 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed
+  artifactKey: Guid(8098163bf64464155bb6ffcd0f80e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed using Guid(8098163bf64464155bb6ffcd0f80e05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4fde2ceb87355c54530bfad0d1b5bb') in 0.005188 seconds 
+  Import took 0.013926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.618795 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer
+  artifactKey: Guid(c86258fc1f75a4c59a185e0fa383187a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer using Guid(c86258fc1f75a4c59a185e0fa383187a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7414ca02d363fe5d076b44ccbc18a41') in 0.001433 seconds 
+  Import took 0.009961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.872774 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets
+  artifactKey: Guid(63f1b55381e054dfb9b1efb96a7aaf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets using Guid(63f1b55381e054dfb9b1efb96a7aaf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120c1f11c9084216181696bff8eded14') in 0.001243 seconds 
+  Import took 0.009630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.584647 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms
+  artifactKey: Guid(0422e98277bef46c2a60816087429669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms using Guid(0422e98277bef46c2a60816087429669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a150a1e282010350fac879b6289957a') in 0.001909 seconds 
+  Import took 0.009955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.230726 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/AstroMan.prefab
+  artifactKey: Guid(08f3727b80a114533b9fda2c3e08cf27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/AstroMan.prefab using Guid(08f3727b80a114533b9fda2c3e08cf27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23526600008b21e2a64c2b5ce93fcc5b') in 0.841608 seconds 
+  Import took 0.853592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/SpaceBackground.prefab
+  artifactKey: Guid(fe15ecb3d8b3849e49a73c4652537050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/SpaceBackground.prefab using Guid(fe15ecb3d8b3849e49a73c4652537050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f6e564aaa1d5c0f9c5583c4e72bf9e') in 0.018865 seconds 
+  Import took 0.025475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Lights.prefab
+  artifactKey: Guid(f10750328cb0543f1a19795e63b877b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Lights.prefab using Guid(f10750328cb0543f1a19795e63b877b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8faf84db4325ab9d4b8b72bf1623861f') in 0.003772 seconds 
+  Import took 0.008996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/DirectionalIndicator.prefab
+  artifactKey: Guid(318b95db1e3f2466c983408b8bf0daf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/DirectionalIndicator.prefab using Guid(318b95db1e3f2466c983408b8bf0daf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b58f7ace69529b5a28b19e5abe0809') in 0.052023 seconds 
+  Import took 0.057410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/ScrollFeedback.prefab
+  artifactKey: Guid(0fce0e6ac5be7469fbcc63066e7fec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/ScrollFeedback.prefab using Guid(0fce0e6ac5be7469fbcc63066e7fec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150145631da6e65d188baeb7a122ab43') in 0.002789 seconds 
+  Import took 0.007977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/SpaceAudioSource.prefab
+  artifactKey: Guid(a4c04f7280dff4b1db718595a04b3625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/SpaceAudioSource.prefab using Guid(a4c04f7280dff4b1db718595a04b3625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc07393371ae8ec744b5e901cad8a20a') in 0.003098 seconds 
+  Import took 0.009061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/PathingFeedback.prefab
+  artifactKey: Guid(255c791c313bb4076987663df070bbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/PathingFeedback.prefab using Guid(255c791c313bb4076987663df070bbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88eda39b46d22d7c04f348d8d2b4effc') in 0.003174 seconds 
+  Import took 0.008442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/HandGuidanceFeedback.prefab
+  artifactKey: Guid(a7c7cd7bf804e4990b314263af1f66e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/HandGuidanceFeedback.prefab using Guid(a7c7cd7bf804e4990b314263af1f66e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1c66910146d45e8d8a8a8c31c376dd') in 0.003328 seconds 
+  Import took 0.008958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/AstroMan_Expanded.prefab
+  artifactKey: Guid(9b710dcd9d6b348db84ed562f017cf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/AstroMan_Expanded.prefab using Guid(9b710dcd9d6b348db84ed562f017cf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9d91f93b2773b9a4114085d7cbcf04') in 0.027290 seconds 
+  Import took 0.037980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Fitbox.prefab
+  artifactKey: Guid(eb891b7f7e2d8424e90b8b2647576afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Fitbox.prefab using Guid(eb891b7f7e2d8424e90b8b2647576afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0f14bf2e3de4687f62cde18aff7f36') in 0.011721 seconds 
+  Import took 0.016390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Tagalong.prefab
+  artifactKey: Guid(869a567ebc7434516968bd88fe9a1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture/Completed/ModelExplorer/Assets/Holograms/Tagalong.prefab using Guid(869a567ebc7434516968bd88fe9a1ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae5bd55c877e95612339ef8d73879b7') in 0.013697 seconds 
+  Import took 0.018510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.153857 seconds.
+  path: Assets/HolographicAcademy-Holograms-211-Gesture
+  artifactKey: Guid(12a64ae07c0964d3aa87fae2f10fd5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-211-Gesture using Guid(12a64ae07c0964d3aa87fae2f10fd5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2362d3dffe04e77d30f3c8d4eb8b06a') in 0.002180 seconds 
+  Import took 0.010109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.150778 seconds.
+  path: Assets/HolographicAcademy-Holograms-101
+  artifactKey: Guid(3b5f1119da8e54f9ea1205a2ff1b48eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101 using Guid(3b5f1119da8e54f9ea1205a2ff1b48eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b1f8ea351cd3ad69f9355c58b20413') in 0.002264 seconds 
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.557708 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/CatchUpChapters
+  artifactKey: Guid(1a97a364447af4819bb5db3f229300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/CatchUpChapters using Guid(1a97a364447af4819bb5db3f229300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7582aac35a17e990fbdf7c6d56baa3') in 0.002448 seconds 
+  Import took 0.010260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000845 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/CatchUpChapters
+  artifactKey: Guid(1a97a364447af4819bb5db3f229300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/CatchUpChapters using Guid(1a97a364447af4819bb5db3f229300af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a7582aac35a17e990fbdf7c6d56baa3') in 0.001609 seconds 
+  Import took 0.008194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.343432 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/NewBehaviourScript.cs using Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723b12c4f073694d6fcc60e13bef40dd') in 0.783811 seconds 
+  Import took 0.789001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.402249 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs
+  artifactKey: Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs using Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b13dbb067a87268e478a1febf6920d') in 0.004768 seconds 
+  Import took 0.012326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.839178 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs
+  artifactKey: Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs using Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4702c58943722a4c4c2c7fa576ddced0') in 0.005466 seconds 
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs
+  artifactKey: Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HolographicAcademy-Holograms-101/Origami/Assets/Scripts/WorldCursor.cs using Guid(9df53981d43de49a49f1d331e8be7dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4702c58943722a4c4c2c7fa576ddced0') in 0.007935 seconds 
+  Import took 0.016046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.884218 seconds.
+  path: Assets/WorldCursor.cs
+  artifactKey: Guid(1691423b0194847b79c5268522e061dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldCursor.cs using Guid(1691423b0194847b79c5268522e061dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38de1c221a79cafabb5ed5771e61763') in 0.007404 seconds 
+  Import took 0.015214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.281218 seconds.
+  path: Assets/GazeGestureManager.cs
+  artifactKey: Guid(c1e1416ee7a6f4abb9ded88914973f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GazeGestureManager.cs using Guid(c1e1416ee7a6f4abb9ded88914973f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0bfae9aa6153cef3ebe3c0f50b38fe') in 0.007708 seconds 
+  Import took 0.016451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.244775 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(3f9843cc010ae4e67a6445c5723620fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3f9843cc010ae4e67a6445c5723620fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d51617b63bc835ce50936df487d4b0') in 0.001555 seconds 
+  Import took 0.008301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.636431 seconds.
+  path: Assets/Scripts/WorldCursor.cs
+  artifactKey: Guid(1691423b0194847b79c5268522e061dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WorldCursor.cs using Guid(1691423b0194847b79c5268522e061dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3533976f9caff4a15676ac80bda2e11') in 0.005207 seconds 
+  Import took 0.014720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.703193 seconds.
+  path: Assets/GazeGestureManager.cs
+  artifactKey: Guid(4cd747e56ff114dfb8ece94522113c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GazeGestureManager.cs using Guid(4cd747e56ff114dfb8ece94522113c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07417390b4315f8967825d98d106f421') in 0.004687 seconds 
+  Import took 0.013666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.776278 seconds.
+  path: Assets/GazeGestureManager.cs
+  artifactKey: Guid(4cd747e56ff114dfb8ece94522113c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GazeGestureManager.cs using Guid(4cd747e56ff114dfb8ece94522113c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091aa1491373b5a6a38bf544d9e0ec7d') in 0.006002 seconds 
+  Import took 0.013674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.166375 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa95d6ccd3307ef36ab5d0302175bbf') in 0.005973 seconds 
+  Import took 0.014063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003863 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa95d6ccd3307ef36ab5d0302175bbf') in 0.006615 seconds 
+  Import took 0.013890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.921002 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(3dc82d611b7574c8c9b8043e108affed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(3dc82d611b7574c8c9b8043e108affed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e386710435a8bbfa27b0a1bf6833ee10') in 0.002275 seconds 
+  Import took 0.009754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002541 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(3dc82d611b7574c8c9b8043e108affed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(3dc82d611b7574c8c9b8043e108affed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e386710435a8bbfa27b0a1bf6833ee10') in 0.001241 seconds 
+  Import took 0.009068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.966082 seconds.
+  path: Assets/SphereCommands.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SphereCommands.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a38bf1768ad99e4eec5953388e1fff') in 0.005173 seconds 
+  Import took 0.012862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.601315 seconds.
+  path: Assets/SphereCommands.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SphereCommands.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cca27bec2c7b691981e18fb86655238') in 0.006315 seconds 
+  Import took 0.013517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.677024 seconds.
+  path: Assets/SphereCommands.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SphereCommands.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c550f7525c9c27310c31f52357ee9d24') in 0.005551 seconds 
+  Import took 0.012637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003995 seconds.
+  path: Assets/SphereCommands.cs
+  artifactKey: Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SphereCommands.cs using Guid(7b5100325f97545478c9980d105240f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c550f7525c9c27310c31f52357ee9d24') in 0.005559 seconds 
+  Import took 0.013769 seconds .
+
